@@ -1,0 +1,2 @@
+# JRNinjaBot
+Hola wenas 
